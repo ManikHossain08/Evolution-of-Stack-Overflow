@@ -9,6 +9,3 @@ Here we will describe how we collect the dataset that we used to answer the rese
 # Source of SO Data:
 - Data Dump download: https://archive.org/details/stackexchange
 - Stack Exchange Data Explorer: https://data.stackexchange.com/stackoverflow/query/new
-
-# Concern:
-- we keep this project privete as our research did not finised yet.
